@@ -1,5 +1,0 @@
-config HELLO
-tristate "Hello Driver added by Farsight"
-default n
-help
-	test for adding driver to menuconfig. 
